@@ -11,6 +11,7 @@ headers={
 #r.encoding="utf-8"
 #print(r.html.html)
 
+
 url1='https://www.xiaohongshu.com/discovery/item/5be7653e07ef1c031e6fa2d5'
 r1 = session.get(url=url1)
 r1.encoding="utf-8"
