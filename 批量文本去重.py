@@ -3,7 +3,7 @@ import shutil
 import os
 
 dirname="D:/www/备份文件/新建文件夹"
-newname="D:/www/备份文件/a"
+newname="D:/www/备份文件/a"  #新的路径
 files_list=[]
 for root,dirs,files in os.walk(dirname):
     #print(files)    #当前目录下的文件名列表
