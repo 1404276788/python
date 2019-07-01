@@ -6,7 +6,7 @@ import re
 
 session = HTMLSession()
 
-url_list=["http://www.detectsoft.com/a/meinv/web.php?total=20","http://www.zhuanhi.com/a/qiwen/web.php?total=20","http://www.yima178.com/a/toutiao/web.php?total=20","http://www.cungulaila.com/jieshao/web.php?total=20","http://www.jyad88.com/a/qiwen/web.php?total=20","http://www.1tgou.com/a/toutiao/web.php?total=20","http://www.dhssjx.com/article/zonghe/web.php?total=20","http://www.suckj.com/a/qiwen/web.php?total=20","http://www.yg39.net/yinhang/web.php?total=20","http://www.yskaowo.com/gongzuodongtai/web.php?total=20","http://www.tl6800.com/a/fazhishenghuo/web.php?total=20","http://www.yinkuchina.com/a/weinongfuwu/zaishengziyuan/web.php?total=20","http://www.ryzg168.com/a/tashan/web.php?total=20","http://www.jpcjujia.com/a/qiwen/web.php?total=20","http://www.qztwsz.com/about/ad/web.php?total=20","http://www.lbczg.com/a/xinqingshuoshuo/web.php?total=20","http://www.qianweicl.com/a/toutiao/web.php?total=20","http://www.lv008.net/yingwenyulu/web.php?total=20","http://www.xacsgd.com/gongsi/web.php?total=20","http://www.gzn10.com/a/xinqingshuoshuo/web.php?total=20","http://www.112623.com/a/shenghuo/web.php?total=20","http://www.112621.com/data/mail/web.php?total=20","http://www.lshxdc.com/a/meinv/20170622/web.php?total=20","http://www.binyichou.com/a/meinv/web.php?total=20","http://www.rexuetuan.com/a/qiwen/web.php?total=20"]
+url_list=["http://www.tjchyey.com/a/guzhang/web.php?total=20","http://www.fsjydd.com/bizhi/web.php?total=20","http://gzssag.com/a/fazhi/web.php?total=20","http://gemi-cn.com/a/xinqingduanyu/web.php?total=20","http://www.syxmxbj.com/a/qtsj/web.php?total=20","http://mcnilong.net/lxwm/web.php?total=20","http://tjlxffmy.com/cpzs/yssy/web.php?total=20","http://xinyuebaowen.com/shuajijiaocheng/web.php?total=20","http://wuhantruss.com/a/tiyu/web.php?total=20","http://syxmxbj.com/a/qtsj/web.php?total=20","http://hubaozhai.com/a/yangsheng/web.php?total=20","http://www.pulebao888.com/a/waiweisheji/web.php?total=20","http://sdaxjjh.com/a/shezhi/web.php?total=20","http://zgejzs.com/a/shuaji/web.php?total=20","http://100xmb.com/a/xingxiao/web.php?total=20","http://www.dna-fun.com/a/shehui/web.php?total=20","http://www.gzssag.com/a/weiquan/web.php?total=20","http://www.meika360.com/yxwz/web.php?total=20","http://www.359tao.com/a/shuaji/web.php?total=20","http://www.sjzyksm.com/a/jiankang/web.php?total=20","http://www.bggdpj.com/a/yule/web.php?total=20","http://www.nuosiwudao.com/funny/web.php?total=20","http://www.byshiguo.com/a/xinpin/web.php?total=20","http://www.xfgogo.com/a/bywh/web.php?total=20","http://www.0574mg.com/a/xinpin/web.php?total=20","http://www.aiche1.com/a/lianxiwomen/web.php?total=20"]
 
 
 dirname='C:/Users/Administrator/Desktop/s' #文件夹路径
@@ -68,6 +68,6 @@ def dw():
         dw()
 
 
-i=20 #循环次数
+i=10 #循环次数
 get_url_html(i)
 dw()

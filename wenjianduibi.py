@@ -13,13 +13,13 @@ s=f.read()  #内容赋值给变量
 
 
 for line in open(txt1):
-    # print(line,end='')
-    r_txt=line.strip('\n')    
-    result=r_txt in s #判断指定的字符串是否在文本中，返回布尔值
-    # print(result)
-    if result==False: #目标文件中的内容不存在源文件中，存放
-        f=open(txt_jg,'a',encoding='utf-8')
-        f.write(line)
-        f.close()
+        # print(line,end='')
+        r_txt=line.strip('\n')    
+        result=r_txt in s #判断指定的字符串是否在文本中，返回布尔值
+        # print(result)
+        if result==False: #目标文件中的内容不存在源文件中，存放
+                f=open(txt_jg,'a',encoding='utf-8')
+                f.write(line)
+                f.close()
 
 
