@@ -6,7 +6,7 @@ import re
 
 session = HTMLSession()
 
-url_list=["http://www.tjchyey.com/a/guzhang/web.php?total=20","http://www.fsjydd.com/bizhi/web.php?total=20","http://gzssag.com/a/fazhi/web.php?total=20","http://gemi-cn.com/a/xinqingduanyu/web.php?total=20","http://www.syxmxbj.com/a/qtsj/web.php?total=20","http://mcnilong.net/lxwm/web.php?total=20","http://tjlxffmy.com/cpzs/yssy/web.php?total=20","http://xinyuebaowen.com/shuajijiaocheng/web.php?total=20","http://wuhantruss.com/a/tiyu/web.php?total=20","http://syxmxbj.com/a/qtsj/web.php?total=20","http://hubaozhai.com/a/yangsheng/web.php?total=20","http://www.pulebao888.com/a/waiweisheji/web.php?total=20","http://sdaxjjh.com/a/shezhi/web.php?total=20","http://zgejzs.com/a/shuaji/web.php?total=20","http://100xmb.com/a/xingxiao/web.php?total=20","http://www.dna-fun.com/a/shehui/web.php?total=20","http://www.gzssag.com/a/weiquan/web.php?total=20","http://www.meika360.com/yxwz/web.php?total=20","http://www.359tao.com/a/shuaji/web.php?total=20","http://www.sjzyksm.com/a/jiankang/web.php?total=20","http://www.bggdpj.com/a/yule/web.php?total=20","http://www.nuosiwudao.com/funny/web.php?total=20","http://www.byshiguo.com/a/xinpin/web.php?total=20","http://www.xfgogo.com/a/bywh/web.php?total=20","http://www.0574mg.com/a/xinpin/web.php?total=20","http://www.aiche1.com/a/lianxiwomen/web.php?total=20"]
+url_list=["http://www.szsfccs.com/a/shishi/web.php?total=20","http://www.qcw1111.com/a/shenghuo/web.php?total=20","http://www.jkhywl.com/a/jiankang/web.php?total=20","http://www.zhaozhiren.com/a/shehui/web.php?total=20","http://www.yijundq.com/a/tiyu/web.php?total=20","http://www.hecst.com/a/mieli/web.php?total=20","http://www.05oq.com/gongsi/web.php?total=20","http://www.1zyt.com/a/qushi/web.php?total=20","http://www.qkhmm.com/a/meiwei/web.php?total=20","http://www.91bixiu.com/a/shuaji/web.php?total=20","http://www.itpsw.com/clumman/web.php?total=20","http://www.fa563.com/a/qiji/web.php?total=20","http://www.my0jl.com/a/keji/web.php?total=20","http://www.lstcgww.com/a/xinling/web.php?total=20","http://www.njzhaiguo.com/a/xinling/web.php?total=20","http://www.dataijin.com/focus/web.php?total=20","http://www.shhylw.com/a/shenghuo/web.php?total=20","http://www.dzdwjx.com/a/qushi/web.php?total=20","http://www.vehong.com/bizhi/web.php?total=20","http://www.e-yq.com/a/xinling/web.php?total=20","http://www.mxmng.com/a/shenghuo/web.php?total=20","http://www.ndpxg.com/a/shenghuo/web.php?total=20","http://www.rzxxyy.com/a/xinjing/web.php?total=20","http://www.yumaosuye.com/a/xingxiao/web.php?total=20","http://www.rencaibi.net/a/yangsheng/web.php?total=20","http://www.jsycl888.com/a/shenghuo/web.php?total=20","http://www.snwysc.com/a/shenghuo/web.php?total=20","http://www.zzysc.net/a/qiji/web.php?total=20"]
 
 
 dirname='C:/Users/Administrator/Desktop/s' #文件夹路径
@@ -54,7 +54,7 @@ def dw():
     l_len=len(list_url_q)  #生成的个数
 
     #如果生成的文件大于1000，就下载下来
-    if l_len>1000:
+    if l_len>400:
         for url_1 in url_list:
             url_1=zz('[^/]+(?!.*/)','',url_1)+'/text.txt'
             res=gethtml(url_1) #获取内容
@@ -67,7 +67,6 @@ def dw():
         get_url_html(1)
         dw()
 
-
-i=10 #循环次数
+i=0 #循环次数
 get_url_html(i)
 dw()
