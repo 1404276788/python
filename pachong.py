@@ -8,7 +8,7 @@ r=session.get(url)  #使用get方法获取页面内容
 #print(r.html.links)     #输出html中的所有链接，返回的链接包含相对链接
 #print(r.html.absolute_links)    #输出绝对地e址
 results=r.html.find('a')
-f=open('url_list3.txt','a',encoding='utf-8')
+f=open('url_list1.txt','a',encoding='utf-8')
 for v in results:
         # print(v.attrs['href'])
         # for url_s in r.html.absolute_links:

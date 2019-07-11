@@ -4,11 +4,13 @@ from requests_html import HTMLSession
 import requests
 import re
 import time
+import ssl
+ssl._create_default_https_context=ssl._create_unverified_context
 
 
 session=HTMLSession()   #建立会话
 
-url='http://www.win4000.com/wallpaper_2358_0_10_1.html'      #网页地址
+url='https://www.cnxiangyan.com/'      #网页地址
 #page=request.urlopen(url)  #打开网页   
 
 # htmlcode=page.read()   #读取页面源码
@@ -26,7 +28,7 @@ def gethtml(url):
 
 r=gethtml(url)  
 # print(r.html.html)
-sel='body > div.main > div > div.w1180.clearfix > div.Left_bar > div.list_cont.Left_list_cont > div > div > div > ul > li > a > img'
+sel='#brands > div.tab-bd > div.brands-content.hot-dzy > ul > li > a > img'
 #img_list=r.html.find(sel,first=True) #数组中的第一个元素  相当于 r.html.find(sel)[0]
 #print(img_list.attrs['data-original'])  #attrs获取属性值
 
@@ -36,7 +38,7 @@ def get_html_img_list(img_url):
     try:
         img_list_arr=r.html.find(sel)
         for img in img_list_arr:
-            img_url_0=img.attrs['data-original']  #attrs获取属性值
+            img_url_0=img.attrs['src']  #attrs获取属性值
             img_lists.append(img_url_0) #图片列表，方便以后使用，比如需要存储图片地址
             res=gethtml(img_url_0) #请求图片地址，二进制
             print(img_url_0)
