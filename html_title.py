@@ -43,8 +43,8 @@ def gethtml(url):
 #results=r.html.find(sel)
 #print(results[0].text)
 #print(results[0].absolute_links)    #返回一个集合
-#s=list(results[0].absolute_links)     #集合转换成列表
-#rint(ls[0])    #打印列表中的第一个元素
+#ls=list(results[0].absolute_links)     #集合转换成列表
+#print(ls[0])    #打印列表中的第一个元素
 #=====改部分功能封装成函数，如下=======
 
 #传入元素规则，返回链接元素的标题和链接
