@@ -33,10 +33,10 @@
             }
         }
     }
-    function xieru($dirnameurl,$htmls){ //文件写入
+    function xieru($dirnameurl,$htmls,$str_re){ //文件写入 dirnameurl路径 htmls新内容 $str_re旧内容
         $homepage=file_get_contents($dirnameurl);     //读文件
         $str=$htmls;
-        $homepage= str_replace('<!DOCTYPE html',$str,$homepage);
+        $homepage= str_replace($str_re,$str,$homepage);
         
         $file = fopen($dirnameurl,"w"); //写文件
         fwrite($file,$homepage);
@@ -53,7 +53,7 @@
             list_file($file);
         }        
         if($_POST['file']){
-            xieru($_POST['file'],$_POST['htmls']);
+            xieru($_POST['file'],$_POST['htmls'],$_POST['str_re']);
         }
         
     }
