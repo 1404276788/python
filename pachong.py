@@ -7,9 +7,9 @@ ssl._create_default_https_context=ssl._create_unverified_context
 
 session=HTMLSession()   #建立会话
 
-url = 'https://www.snsnb.com/html/wzdt/'  #要爬取的页面
+url = 'http://127.0.0.1:8080/'  #要爬取的页面
 
-r=session.get(url)  #使用get方法获取页面内容
+r=session.get(url,timeout=120)  #使用get方法获取页面内容
 #print(r.html.text)  #输出html中的文字部分
 #print(r.html.links)     #输出html中的所有链接，返回的链接包含相对链接
 #print(r.html.absolute_links)    #输出绝对地e址
