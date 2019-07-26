@@ -4,19 +4,19 @@ import re
 import html
 
 
-line_db_list=["db_cacker_net","db_177dnf_com","db_mooncolour_com","db_3goldensluxpro_com"]      #数据库列表
-
+line_db_list=["ali"]      #数据库列表
+prefix='jtcm'   #表前缀
 
 for dbrow in line_db_list:
     dbname=dbrow
     try:
         # 打开数据库连接
-        db = pymysql.connect("127.0.0.1","root","root",dbname,charset="utf8")
+        db = pymysql.connect("192.168.1.209","jtcm","qqqAAA0130",dbname,charset="utf8")
 
         # 使用 cursor() 方法创建一个游标对象 cursor
         cursor = db.cursor()
 
-        numsql="SELECT COUNT(*) FROM dede_addonarticle"
+        numsql="SELECT COUNT(*) FROM {}_addonarticle".format(prefix)
         cursor.execute(numsql)
         num = cursor.fetchall() #获取表中数据的总条数
         
@@ -28,7 +28,7 @@ for dbrow in line_db_list:
             # 使用 execute()  方法执行 SQL 查询 
             # 使用 cursor() 方法创建一个游标对象 cursor           
             
-            sql="SELECT aid,body FROM dede_addonarticle LIMIT {},1".format(i)
+            sql="SELECT aid,body FROM {}_addonarticle LIMIT {},1".format(prefix,i)
             # print(sql)
             try:
                 cursor.execute(sql)
@@ -39,18 +39,10 @@ for dbrow in line_db_list:
                     str_txt=results[0][1]
                     aid=results[0][0]
                     
-                    pattern = re.compile(r'<img .*?>')
-                    out=re.sub(pattern," ",str_txt)
-                    pattern = re.compile(r'\r\n')  #转义换行
-                    out=re.sub(pattern,"<br/>",str_txt) 
-                    pattern = re.compile(r'\'')  #转单引号
-                    out=re.sub(pattern,"&apos;",str_txt)
-                    pattern = re.compile(r'\"') #转双引号
-                    out=re.sub(pattern,"&quot;",str_txt)
-                    out = str(out) 
-                    out=html.escape(out)      #html转义          
+                    pattern = re.compile(r'http:\/\/.*?\/sitemap\/')
+                    out=re.sub(pattern,"",str_txt)
                     try:
-                        sqlupdate="update `dede_addonarticle` set `body`='{}' where `aid`={}".format(out,aid)             
+                        sqlupdate="update `{}_addonarticle` set `body`='{}' where `aid`={}".format(prefix,out,aid)             
                         
                         cursor.execute(sqlupdate)
                         db.commit()
