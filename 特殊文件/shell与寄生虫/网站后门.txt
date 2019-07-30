@@ -1,0 +1,148 @@
+http://www.yuxjj.com/dede/login.php	adminn|018217ad030cd6a6ac86
+http://vcl.paheng.com	admin|f297a57a5a743894a0e4	admin
+	/dede/index_hm.php
+	/data/index_hm.php
+	一句话密码：meng
+	友链申请脚本：  /index_new.php
+
+
+http://www.xzs0730.com	admin|6c2841479abde79d4b3b	yyxw123456
+	/plus/index_hm.php
+	/plus/shell.lib.php	
+	一句话密码：index
+	友链申请脚本：  /index_new.php
+
+http://www.sdyjrzs.com	admin|4d6bff3af30288cbcc65	sdyjrzs123
+by.chenxiangshijia.com/dede/login.php		admin|81ce45cfeed0dfaaf4e1
+cha.chenxiangshijia.com		admin|c1b3e43759ffe43bc32f
+www.xmvbon.com/manager/login.php		admin|f297a57a5a743894a0e4	admin
+www.yonglifangshui.com/ylxs/login.php	yladmin|ee119db97253cce24e12	yladmin209
+	/plus/index_hm.php	密码为:mf8c3a3b0
+	/plus/shell.lib.php
+
+www.hxexam.com     推荐：|admin|1d396b56a512c4825156
+
+http://www.dennislameyecenter.com	   admin|44b13955235245b24973	123123
+http://www.gaigi.com.cn/pulley/login.php	Admin|Pass:admin|197f692931c2893d187f
+
+www.yygzzs.com/nh_manage/login.php     推荐：|admin|a473187d78a308d08c72
+
+www.qllib.cn/qllibadmin/login.php	admin|f51857fe7758d152d532
+
+康达九州：
+http://www.kangdajiuzhou.cn/yunshang/login.php	推荐：|admin|86df88da65b1689dfba7	Aa2018kd
+	/news/index_new.php
+	文件管理器地址：/yunshang/file_manage_main.php?activepath=
+
+www.zzxhjjk.com     推荐：|zhengchao|f9ead1aba40497f58122	zhengchao@438
+www.hack6.com     推荐：|buzaihu|91ab34bec4a8d5d2af06
+www.yinzhang8.com.cn     推荐：|zhongyudong123|eb1c185a3f0df057e89a
+www.liuxuesg.com    推荐：|admin|df4f709cea33cc81755d	pinglei!@!@!@!@
+
+http://xingbian580.com/dede/login.php	Admin|Pass:admin|c2d4b76b1cd914dff0bd	wylzt201266
+     	/plus/index_hm.php	mf8c3a3b0
+<?php
+//数据库连接信息
+$cfg_dbhost = 'bdm-016.hichina.com';
+$cfg_dbname = 'bdm0160539_db';
+$cfg_dbuser = 'bdm0160539';
+$cfg_dbpwd = 'f454dsasfdasfdg';
+$cfg_dbprefix = 'dede_';
+$cfg_db_language = '';
+
+
+?>
+
+
+www.chinadengbao.com     推荐：|admin|43ca6e36d201d5f56673	jiang123yue
+www.sdqnjy.com/login_main/login.php     推荐：|admin|21319fe8cf50e6580882	sdqnjy123!!!
+www.ythtck.com     推荐：|htckmaster|ed60a9e4bf1cdcd9fdd2
+cs.hjnu.edu.cn     推荐：|admin|f0636c13e5d83c47d405	42237328
+www.henjianfei.com     推荐：|zhu55747|14e1357a3d364ccf77e4	zh5124.198
+www.whgf.org     推荐：|adminw|9eb6f188cd9ba842f94b
+www.mianfeihao.com     推荐：|mianfeihao|5d955161b7bdb1e0e4b4	wolf19900110
+www.cdhdk.com     推荐：|adminlaoban|3644f352ccaba1103449
+www.artworld.cn/SysAdmin/login.php     推荐：|admin|a27aec6790f0928613c5	8i9o0p
+www.hz5180.cn     推荐：|bluekiss|dc9a9bae89211d2087f5	a9815893
+www.andawell.com     推荐：|admin|ba26b305b82b50d16c5d
+
+http://www.dedecmsok.com     推荐：|admin|86df88da65b1689dfba7		Aa2018kd
+	http://www.dedecmsok.com/login/login.php  
+
+http://www.9ij.com     推荐：|admin|3b00c2ce21c45ba2c212
+http://ti3zlzw0.cn     推荐：|admin|6ca9916438ff3f90c6c7	ZH456123aa100
+http://www.andawell.com     推荐：|admin|ba26b305b82b50d16c5d
+http://www.cdflgw.com     推荐：|admin|9bcd1e932b6e5d95c145	011811
+http://bzwater.com     推荐：|admin|54dd85480a93ca70f864
+http://www.mianfeihao.com     推荐：|mianfeihao|5d955161b7bdb1e0e4b4	wolf19900110
+http://www.sk669.com     推荐：|hlwliheeq|6cd16f1c34379ee9d17b	sk252669
+http://www.gdglch.com     推荐：|admin|d937abae704363522aa2	dengzilong1988316
+
+onemoonart.com     推荐：|admin|f297a57a5a743894a0e4	admin
+http://www.huab.net/dede/login.php	Admin|Pass:admin|412eb55eee76e50e5ca1	0762210
+http://www.smartcar.org.cn	Admin|Pass:admin|9e7b6cd3ac31e59810dd
+http://www.mdjlife.com		Admin|Pass:admin|65456d3b80008a5f8104
+http://wenpingbanli.com/dede/index.php		admin|admin
+http://www.bbyhqwmw.cn/yhqadmin/index.asp	admin|abcwnoaa
+http://www.99jkpt.com/dede/index.php	admin|admin
+http://www.huiyuangw.com/admin/index.asp	admin|adminaaa
+
+
+http://www.yz-ys.com/UploadFiles/2019110114638882.asp
+
+http://xingbian580.com/dede/index.php
+	$cfg_dbhost = 'bdm-016.hichina.com';
+	$cfg_dbname = 'bdm0160539_db';
+	$cfg_dbuser = 'bdm0160539';
+	$cfg_dbpwd = 'f454dsasfdasfdg';
+	$cfg_dbprefix = 'dede_';
+	$cfg_db_language = '';
+
+
+http://www.ywlm110.com|admin|e5412e9c09efd8bce96b	youhua
+http://www.yuyipinshiye.com|admin|383990ce302e7b7ec2a3
+http://www.ywlm110.com|admin|e5412e9c09efd8bce96b
+http://www.uaicpa.com|admin|fec74350f82e9f0ce3c0
+http://www.ucache.cn|admin|cd8915598ff9043368b2
+http://www.vland.cc|admin|2b775f60aa903619b602
+http://www.whxna.com|admin|1d74bdd63c62c578ad3b
+http://www.woshidameiren8.com|chenxiangji|140bb982fb7658a60861
+http://www.xayimo.com|admin|28ba55582179f30c0786
+http://www.xazbdq.com|helele20180210|446381ba4c0cfd661035
+http://www.xsxzyy.com|admin|91e1c45bfee8b1da3fc9
+http://www.yayabizhi.com|admin|cab6a5f1056f3af5eeef
+http://www.yhmov.com|admin|a72cbf31073ec6d6300f
+http://www.yinzhang8.com.cn|zhongyudong123|eb1c185a3f0df057e89a
+http://www.yizujia.com|weiliang|1dcf967b2bacb4c3df36
+http://www.yuyipinshiye.com|admin|383990ce302e7b7ec2a3
+http://www.yxhbjx.com|admin|e83c81f8e02ab528decd
+http://www.yxjbl.com|admin|705fea3a6f01b7f20fd4
+http://www.zgbxxh.org|admin|dd689fd86e29917ee7cd
+http://www.zhanzhangzhilu.com|admin|3e55f1236b1afedfceef
+http://www.zhaomingbang.cn|admin|840886c0498dfe36e3d5
+
+http://school.cn1.formsdotstar.com/sites/all/themes/bootstrap/README.php   admins
+http://www.partygoals.com/bootstrap/cache/services.php	 admin
+http://www.thdqsc.cn/data/enums/smoka.php	admin
+http://www.love025.com/admin/images/charts/pie3d.php   admin
+http://www.un58.com/admin/images/charts/column.php	admin
+http://www.321wwe.com/data/brandlogo/1433305838912621380.php	admin
+http://www.everywear.com.my/languages/en_us/convert/shopex47.php	admins
+http://www.daysunfireworks.com/admin/includes/inc_class.php	admin
+http://www.yaminsi.com/admin/includes/inc_datas.php	admin
+http://www.qmhui.com/hongbao/IndexConf/addon.php   c0nn89
+http://www.qmhui.com/images/class.php	admin
+http://www.xartbmsm.com/data/afficheimg/class.php   admins
+http://kpsschool.edu.pk/wp-content/plugins/js_composer/include/templates/params/vc_grid_item/shortcodes/vc_button2.php	admins
+http://www.bobo888.cn/languages/zh_cn/convert/shopex49.php	admins
+http://www.tafengyun.com/admin/includes/inc_mode.php	admin
+http://www.rhel7.win/admin/images/charts/column3d.php	admin
+http://www.fuhaijiaju.com/admin/ad/lpt5.addeads.asp          caishen778.
+http://www.818hr.cn/2018/0427/34770.php		admin
+http://www.littlegrovebaptist.org/images/cja/slideshow/class.php	admin
+http://www.akademslova.ru/20180925/viewer.php	admins
+http://www.billards-rivet.com/Connections/rivet_cx.php	admins
+http://www.twinjet.com.cn/UploadFiles/20160025040041.php	admins
+http://www.qwj2zx178.com/dasheng/images/style3/dlgtitle.php	admin
+http://www.yxtyfs.com/include/dialog/select_media.php	admin
+http://www.zykj999.com/languages/zh_cn/convert/shopex49.php	admins

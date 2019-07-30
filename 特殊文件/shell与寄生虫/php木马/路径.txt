@@ -1,0 +1,4 @@
+/home/zx.shawdo.com/public_html/install/images/install/btn.php
+/home/zx.shawdo.com/public_html/runtime/temp/0293d7320ca836e423806af840cb739cs.php
+/home/zx.shawdo.com/public_html/extend/ignore.php
+/home/zx.shawdo.com/public_html/public/static/images/seller/indax.php
