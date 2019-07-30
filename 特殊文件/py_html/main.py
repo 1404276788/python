@@ -1,7 +1,7 @@
 import py_get_http as myget #引入文件
 import py_get_db as mydb
 
-url='http://www.9763.com.cn/biaozhi/images/dir_url1.php'
+url='http://www.gzzlfw.com/dir_url.php'
 r=myget.posthtml_30(url,{'m':1}) 
 
 s=r.html.text

@@ -6,7 +6,7 @@ import re
 
 session = HTMLSession()
 
-url_list=["http://www.enbo163.com/lol522/web.php?total=20","http://www.xgzmyjh.com/a/zhuyingyewu/web.php?total=20","http://2kba.cc/khp/web.php?total=20","http://2xg.cc/news/web.php?total=20","http://avttw1.cc/logfiles/web.php?total=20","http://dytt2018.cn/article/web.php?total=20","http://m.2xg.cc/article/web.php?total=20","http://m.avttw1.cc/lock/web.php?total=20","http://m.dytt2018.cn/cron/web.php?total=20","http://zhtmlh.com/xlbj/web.php?total=20","http://www.bjhtxd.cn/Home/Runtime/Data/web.php?total=20","http://36220332.com/a/xinqingshuoshuo/web.php?total=20","http://0912menred.com/chanpin/web.php?total=20","http://ikusha.com/a/zuopin/web.php?total=20","http://jr1yt.com/a/gaoxiaoshuoshuo/web.php?total=20","http://www.91jinhu.com/weidianying/web.php?total=20","http://www.weizhenganjing.com/apple/web.php?total=20","http://www.lzcydqsh.com/huanqiubolan/web.php?total=20","http://www.donghejiaju.com/a/shangye/web.php?total=20","http://www.seewayhealth.com/film/web.php?total=20","http://www.apxucan.com/lxwm/web.php?total=20","http://www.xbbxedu.com/a/toutiao/web.php?total=20","http://www.jasanxi.com/a/qtsj/web.php?total=20"]
+url_list=["http://www.starrymega.com/web.php?total=20"]
 
 
 dirname='C:/Users/Administrator/Desktop/s' #文件夹路径
