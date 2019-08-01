@@ -1,3 +1,4 @@
+dedecms_index.php   adminx
 web.php文件为生成静态寄生虫文件，tags_class.php为动态寄生虫文件
 admin01 wanli361361A
 db=s531    shuaishuai  123456
@@ -1563,25 +1564,104 @@ http://www.jasanxi.com
 
 23个
 
+
+2019-07-31 14:30:52
 http://www.cgcgjy.com
+
 http://www.cgjy01.com
+    http://www.cgjy01.com/tags_class.php
+    http://www.cgjy01.com/dir_url.php
+    http://www.cgjy01.com/chuangyishalong/web.php
+    http://www.cgjy01.com/uploads/allimg/190425/Teams.php
+
 http://www.chung01.com
+    http://www.chung01.com/dir_url.php
+    http://www.chung01.com/tags_class.php
+    http://www.chung01.com/a/shangye/20190425/web.php
+
 http://www.bjtsdjz.com
+    http://www.bjtsdjz.com/tags_class.php
+    http://www.bjtsdjz.com/dir_url.php
+    http://www.bjtsdjz.com/bizhi/aiawuw/web.php
+
 http://www.dzhqspc.com
+    http://www.dzhqspc.com/dir_url.php
+    http://www.dzhqspc.com/tags_class.php
+    http://www.dzhqspc.com/qiwenqushi/web.php
+
 http://www.beioejia.com
+    http://www.beioejia.com/tags_class.php
+    http://www.beioejia.com/dir_url.php
+    http://www.beioejia.com/a/shangye/web.php
+
 http://www.jojupu.com
+    http://www.jojupu.com/tags_class.php
+    http://www.jojupu.com/dir_url.php
+    http://www.jojupu.com/guojiaxinwen/20190725/web.php
+
 http://www.hbbidding.net
+    http://www.hbbidding.net/tags_class.php
+    http://www.hbbidding.net/dir_url.php
+    http://www.hbbidding.net/a/android/web.php
+
 http://www.ksyushuo.com
+    http://www.ksyushuo.com/tags_class.php
+    http://www.ksyushuo.com/dir_url.php
+    http://www.ksyushuo.com/a/hot/web.php
+
 http://www.china-ret.net
+    http://www.china-ret.net/tags_class.php
+    http://www.china-ret.net/dir_url.php
+    http://www.china-ret.net/a/guandian/web.php
+
 http://www.xian400.net
+    http://www.xian400.net/tags_class.php
+    http://www.xian400.net/dir_url.php
+    http://www.xian400.net/shehuijujiao/web.php
+
 http://www.laide66.com
+    http://www.laide66.com/tags_class.php
+    http://www.laide66.com/dir_url.php
+    http://www.laide66.com/about/yl/web.php
+
 http://www.yajin01.com
+    http://www.yajin01.com/tags_class.php
+    http://www.yajin01.com/dir_url.php
+    http://www.yajin01.com/a/guandian/web.php
+
 http://www.yajin88.com
+    http://www.yajin88.com/tags_class.php
+    http://www.yajin88.com/dir_url.php
+    http://www.yajin88.com/a/muying/web.php
+
 http://www.popomi.net
+    http://www.popomi.net/tags_class.php
+    http://www.popomi.net/dir_url.php
+    http://www.popomi.net/chuangyishalong/web.php
+
 http://www.qdzcfjwz.com
+    http://www.qdzcfjwz.com/tags_class.php
+    http://www.qdzcfjwz.com/dir_url.php
+    http://www.qdzcfjwz.com/dapeishuo/web.php
+
 http://www.soupaish.com
+    http://www.soupaish.com/tags_class.php
+    http://www.soupaish.com/dir_url.php
+    http://www.soupaish.com/a/zhinen/web.php
+
 http://www.techemc.com
+    http://www.techemc.com/tags_class.php
+    http://www.techemc.com/dir_url.php
+    http://www.techemc.com/365tiyuwangtou/web.php
+
+
+
+2019-08-01 09:04:08
+
 http://www.tjtcxyhg.com
+    http://www.tjtcxyhg.com/tags_class.php
+    http://www.tjtcxyhg.com/dir_url.php
+    
 http://www.ht-fluid.com
 http://www.bjjyhengye.com
 http://www.haockjfw.com
