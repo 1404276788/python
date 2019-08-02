@@ -6,7 +6,7 @@ import re
 
 session = HTMLSession()
 
-url_list=["http://www.starrymega.com/web.php?total=20"]
+url_list=["http://www.cgjy01.com/chuangyishalong/web.php?total=20","http://www.chung01.com/a/shangye/20190425/web.php?total=20","http://www.bjtsdjz.com/bizhi/aiawuw/web.php?total=20","http://www.dzhqspc.com/qiwenqushi/web.php?total=20","http://www.beioejia.com/a/shangye/web.php?total=20","http://www.jojupu.com/guojiaxinwen/20190725/web.php?total=20","http://www.hbbidding.net/a/android/web.php?total=20","http://www.ksyushuo.com/a/hot/web.php?total=20","http://www.china-ret.net/a/guandian/web.php?total=20","http://www.xian400.net/shehuijujiao/web.php?total=20","http://www.laide66.com/about/yl/web.php?total=20","http://www.yajin01.com/a/guandian/web.php?total=20","http://www.yajin88.com/a/muying/web.php?total=20","http://www.popomi.net/chuangyishalong/web.php?total=20","http://www.qdzcfjwz.com/dapeishuo/web.php?total=20","http://www.soupaish.com/a/zhinen/web.php?total=20","http://www.techemc.com/365tiyuwangtou/web.php?total=20","http://www.tjtcxyhg.com/lxwm/web.php?total=20","http://www.ht-fluid.com/bizhi/web.php?total=20","http://www.bjjyhengye.com/jiaoyizhinan/web.php?total=20","http://www.haockjfw.com/bxww/web.php?total=20","http://www.guarts.com/a/shangye/web.php?total=20","http://www.4000432055.com/about/web.php?total=20","http://www.tiantianxo.com/renwu/web.php?total=20","http://www.hengfengzl.com/about/html/web.php?total=20","http://www.jyxtfz.com/meizi/web.php?total=20","http://www.klyigu.com/about/notice/web.php?total=20","http://www.xnymypd.com/a/wlyx/web.php?total=20","http://www.qdanpay.com/html/Agedcare/web.php?total=20","http://www.gljszl.com/a/zixun/web.php?total=20"]
 
 
 dirname='C:/Users/Administrator/Desktop/s' #文件夹路径
