@@ -35,5 +35,5 @@ def db_htmls():
         s=s+"<a href='{}'></a>\n<a href='tags_class.php?{}.html'></a>\n".format(v[0],a)
 
     ss='<html lang="zh-CN" class="no-js">\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />\n'
-    ss=ss+'<div class="rel_news">\n<div class="itemlist">\n'+s+'</div>\n</head>\n</html><html'
+    ss=ss+'<div class="rel_news">\n<div class="itemlist">\n'+s+'</div>\n</head>\n</html><!DOCTYPE html'
     return ss

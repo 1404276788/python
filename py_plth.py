@@ -1,4 +1,4 @@
-# 删除文章body中的图片
+# dede文章内容批量替换
 import pymysql
 import re
 import html

@@ -1796,10 +1796,32 @@ http://www.czbdgd.com
     http://www.czbdgd.com/a/beijing/web.php
 
 http://www.baohaiwl.com
+    http://www.baohaiwl.com/tags_class.php
+    http://www.baohaiwl.com/dir_url.php
+    http://www.baohaiwl.com/a/texiao/web.php
+
 http://www.e-pinghui.com
+    http://www.e-pinghui.com/tags_class.php
+    http://www.e-pinghui.com/dir_url.php
+    http://www.e-pinghui.com/a/aiqingshuoshuo/web.php
+
 http://www.elh-gps.net
+    http://www.elh-gps.net/tags_class.php
+    http://www.elh-gps.net/dir_url.php
+    http://www.elh-gps.net/html/jibing/web.php
+
 http://www.cx-pack.com
+    http://www.cx-pack.com/tags_class.php
+    http://www.cx-pack.com/dir_url.php
+    http://www.cx-pack.com/a/guzhang/web.php
+
+
+2019-08-05 08:51:28
 http://www.1000talk8.com
+    http://www.1000talk8.com/tags_class.php
+    http://www.1000talk8.com/dir_url.php
+    http://www.1000talk8.com/a/about/web.php
+    
 http://www.eztdkj.com
 http://www.knight0415.com
 http://www.jzblsmp.com
