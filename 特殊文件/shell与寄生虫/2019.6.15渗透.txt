@@ -1893,88 +1893,429 @@ http://www.fjbjlth.com
     http://www.fjbjlth.com/a/zhinen/web.php
 
 http://www.ddshhw.com
+    http://www.ddshhw.com/tags_class.php
+    http://www.ddshhw.com/dir_url.php
+    http://www.ddshhw.com/chuangyishalong/web.php
+
 http://www.cepdc.net
+    http://www.cepdc.net/tags_class.php
+    http://www.cepdc.net/dir_url.php
+    http://www.cepdc.net/a/chuangtou/web.php
+
 http://www.moogeek.com
+    http://www.moogeek.com/tags_class.php
+    http://www.moogeek.com/dir_url.php
+    http://www.moogeek.com/about/us/web.php
+
 http://www.jswx-hr.com
+    http://www.jswx-hr.com/tags_class.php
+    http://www.jswx-hr.com/dir_url.php
+    http://www.jswx-hr.com/a/meinv/web.php
+
 http://www.zgtza.com
+    http://www.zgtza.com/tags_class.php
+    http://www.zgtza.com/dir_url.php
+    http://www.zgtza.com/about/web.php
+
 http://www.sdbingdian.com
+    http://www.sdbingdian.com/tags_class.php
+    http://www.sdbingdian.com/dir_url.php
+    http://www.sdbingdian.com/a/shangganjuzi/web.php
+
 http://www.zhlilong.com
+    http://www.zhlilong.com/tags_class.php
+    http://www.zhlilong.com/dir_url.php
+    http://www.zhlilong.com/ganyinghua/web.php
+
 http://www.930zs.com
+    http://www.930zs.com/tags_class.php
+    http://www.930zs.com/dir_url.php
+    http://www.930zs.com/qiwenqushi/web.php
+
 http://www.dongxinzs.com
+    http://www.dongxinzs.com/tags_class.php
+    http://www.dongxinzs.com/dir_url.php
+    http://www.dongxinzs.com/front/web.php
+
 http://www.jdxyg.com
+    http://www.jdxyg.com/tags_class.php
+    http://www.jdxyg.com/dir_url.php
+    http://www.jdxyg.com/coolweb/web.php
+
+
+2019-08-06 08:52:37
 http://www.linyiq.com
+    http://www.linyiq.com/tags_class.php
+    http://www.linyiq.com/dir_url.php
+    http://www.linyiq.com/tiyu/web.php
+
 http://www.rsjkj.com
+    http://www.rsjkj.com/tags_class.php
+    http://www.rsjkj.com/dir_url.php
+    http://www.rsjkj.com/article/web.php
+    http://www.rsjkj.com/plus/Teams.php
+
 http://www.xiheheyp.com
+    http://www.xiheheyp.com/tags_class.php
+    http://www.xiheheyp.com/dir_url.php
+    http://www.xiheheyp.com/lxwm/web.php
+
 http://www.0591wy.com
+    http://www.0591wy.com/tags_class.php
+    http://www.0591wy.com/dir_url.php
+    http://www.0591wy.com/a/shangye/20190513/web.php
+
 http://www.adtec-chem.com
+    http://www.adtec-chem.com/tags_class.php
+    http://www.adtec-chem.com/dir_url.php
+    http://www.adtec-chem.com/copyright/web.php
+
 http://www.kindcms.com
+    http://www.kindcms.com/tags_class.php
+    http://www.kindcms.com/dir_url.php
+    http://www.kindcms.com/a/guandian/web.php
+
 http://www.szzmqw.com
+    http://www.szzmqw.com/tags_class.php
+    http://www.szzmqw.com/dir_url.php
+    http://www.szzmqw.com/a/jinrizhiban/web.php
+
 http://www.shiyisite.com
+    http://www.shiyisite.com/tags_class.php
+    http://www.shiyisite.com/dir_url.php
+    http://www.shiyisite.com/junshiredian/web.php
+
 http://www.tcbygww.com
+    http://www.tcbygww.com/tags_class.php
+    http://www.tcbygww.com/dir_url.php
+    http://www.tcbygww.com/creative/web.php
+
 http://www.gis23.com
+    http://www.gis23.com/tags_class.php
+    http://www.gis23.com/dir_url.php
+    http://www.gis23.com/qiwenqushi/web.php
+
 http://www.yn17k.com
+    http://www.yn17k.com/tags_class.php
+    http://www.yn17k.com/dir_url.php
+    http://www.yn17k.com/a/meinv/web.php
+
 http://www.guozaijia.com
+    http://www.guozaijia.com/tags_class.php
+    http://www.guozaijia.com/dir_url.php
+    http://www.guozaijia.com/a/meinv/web.php
+
 http://www.shengmaoen.com
+    http://www.shengmaoen.com/tags_class.php
+    http://www.shengmaoen.com/dir_url.php
+    http://www.shengmaoen.com/a/liuyan/web.php
+
 http://www.jsdrwhcm.com
+    http://www.jsdrwhcm.com/tags_class.php
+    http://www.jsdrwhcm.com/dir_url.php
+    http://www.jsdrwhcm.com/baidu/qinggangushi/2013/web.php
+
 http://www.hxlyjc.com
+    http://www.hxlyjc.com/tags_class.php
+    http://www.hxlyjc.com/dir_url.php
+    http://www.hxlyjc.com/freelist/web.php
+
 http://www.njwangji.com
+    http://www.njwangji.com/tags_class.php
+    http://www.njwangji.com/dir_url.php
+    http://www.njwangji.com/a/shangganshuoshuo/web.php
+    
 http://www.weimeics.com
+    http://www.weimeics.com/tags_class.php
+    http://www.weimeics.com/dir_url.php
+    http://www.weimeics.com/gear/web.php
+
 http://www.zcyuehe.com
+    http://www.zcyuehe.com/tags_class.php
+    http://www.zcyuehe.com/dir_url.php
+    http://www.zcyuehe.com/about/tougao/web.php
+
 http://www.zgjsdwy.com
+    http://www.zgjsdwy.com/tags_class.php
+    http://www.zgjsdwy.com/dir_url.php
+    http://www.zgjsdwy.com/Fun88/20190728/web.php
+
 http://www.wjhwater.com
+    http://www.wjhwater.com/tags_class.php
+    http://www.wjhwater.com/dir_url.php
+    http://www.wjhwater.com/about/web.php
+
 http://www.wuchengrc.com
+    http://www.wuchengrc.com/tags_class.php
+    http://www.wuchengrc.com/dir_url.php
+    http://www.wuchengrc.com/gaoxiaoshuoshuo/web.php
+
 http://www.czswhy.com
+    http://www.czswhy.com/tags_class.php
+    http://www.czswhy.com/dir_url.php
+    http://www.czswhy.com/gear/web.php
+
 http://www.nmgjinyi.com
+    http://www.nmgjinyi.com/tags_class.php
+    http://www.nmgjinyi.com/dir_url.php
+    http://www.nmgjinyi.com/about/web.php
+
 http://www.hitdcm.com
+    http://www.hitdcm.com/tags_class.php
+    http://www.hitdcm.com/dir_url.php
+    http://www.hitdcm.com/shuajijiaocheng/web.php
+
 http://www.ailowheel.com
+    http://www.ailowheel.com/tags_class.php
+    http://www.ailowheel.com/dir_url.php
+    http://www.ailowheel.com/gongsi/zilanmu5/web.php
+
 http://www.anruicd.com
+    http://www.anruicd.com/tags_class.php
+    http://www.anruicd.com/dir_url.php
+    http://www.anruicd.com/qiwenqushi/web.php
+
 http://www.csrmjd.com
+    http://www.csrmjd.com/tags_class.php
+    http://www.csrmjd.com/dir_url.php
+    http://www.csrmjd.com/a/tupianshuoshuo/web.php
+
+2019/08/07 14:21:40
 http://www.zhaoyzhao.com
+    http://www.zhaoyzhao.com/tags_class.php
+    http://www.zhaoyzhao.com/dir_url.php
+    http://www.zhaoyzhao.com/a/shangye/20190514/web.php
+
 http://www.zjglktwx.com
+    http://www.zjglktwx.com/tags_class.php
+    http://www.zjglktwx.com/dir_url.php
+    http://www.zjglktwx.com/a/zhike/web.php
+
 http://www.zjmdktwx.com
+    http://www.zjmdktwx.com/tags_class.php
+    http://www.zjmdktwx.com/dir_url.php
+    http://www.zjmdktwx.com/shehuijujiao/web.php
+
 http://www.njyeji.com
+    http://www.njyeji.com/tags_class.php
+    http://www.njyeji.com/dir_url.php
+    http://www.njyeji.com/a/shanghaimeishi/20131014/web.php
+
 http://www.baixiwenku.com
+    http://www.baixiwenku.com/tags_class.php
+    http://www.baixiwenku.com/dir_url.php
+    http://www.baixiwenku.com/a/shangye/web.php
+
 http://www.qhqp888.com
+    http://www.qhqp888.com/tags_class.php
+    http://www.qhqp888.com/dir_url.php
+    http://www.qhqp888.com/column/web.php
+
 http://www.xk-fly.com
+    http://www.xk-fly.com/tags_class.php
+    http://www.xk-fly.com/dir_url.php
+    http://www.xk-fly.com/bizhi/web.php
+
 http://www.telatu.net
+    http://www.telatu.net/tags_class.php
+    http://www.telatu.net/dir_url.php
+    http://www.telatu.net/shehuijujiao/web.php
+
 http://www.xyqdggg.com
+    http://www.xyqdggg.com/tags_class.php
+    http://www.xyqdggg.com/dir_url.php
+    http://www.xyqdggg.com/life/web.php
+
 http://www.0451xc120.com
+    http://www.0451xc120.com/tags_class.php
+    http://www.0451xc120.com/dir_url.php
+    http://www.0451xc120.com/about/web.php
+
 http://www.zxxc120.com
+    http://www.zxxc120.com/tags_class.php
+    http://www.zxxc120.com/dir_url.php
+    http://www.zxxc120.com/about/yl/web.php
+
 http://www.ahj3288.com
+    http://www.ahj3288.com/tags_class.php
+    http://www.ahj3288.com/dir_url.php
+    http://www.ahj3288.com/a/shangye/20190708/web.php
+
 http://www.led-sight.com
+    http://www.led-sight.com/tags_class.php
+    http://www.led-sight.com/dir_url.php
+    http://www.led-sight.com/a/20190610/web.php
+
 http://www.appmitan.com
+    http://www.appmitan.com/tags_class.php
+    http://www.appmitan.com/dir_url.php
+    http://www.appmitan.com/bizhi/web.php
+
 http://www.csjaguar.com
+    http://www.csjaguar.com/tags_class.php
+    http://www.csjaguar.com/dir_url.php
+    http://www.csjaguar.com/huanqiubolan/web.php
+
 http://www.sclonghua.com
+    http://www.sclonghua.com/tags_class.php
+    http://www.sclonghua.com/dir_url.php
+    http://www.sclonghua.com/a/guandian/web.php
+
 http://www.hnhtfdc.com
+    http://www.hnhtfdc.com/tags_class.php
+    http://www.hnhtfdc.com/dir_url.php
+    http://www.hnhtfdc.com/a/guandian/web.php
+
 http://www.yuejumy.com
+    http://www.yuejumy.com/tags_class.php
+    http://www.yuejumy.com/dir_url.php
+    http://www.yuejumy.com/a/ganbu/web.php
+
 http://www.oxinyi.com
+    http://www.oxinyi.com/tags_class.php
+    http://www.oxinyi.com/dir_url.php
+    http://www.oxinyi.com/huanqiubolan/web.php
+
 http://www.aykscryp.com
+    http://www.aykscryp.com/tags_class.php
+    http://www.aykscryp.com/dir_url.php
+    http://www.aykscryp.com/a/shangye/20190428/web.php
+
 http://www.sdyszg.com
+    http://www.sdyszg.com/tags_class.php
+    http://www.sdyszg.com/dir_url.php
+    http://www.sdyszg.com/cy/web.php
+
+
+2019/08/08 08:49:43   
 http://www.isxx.net
+    http://www.isxx.net/tags_class.php
+    http://www.isxx.net/dir_url.php
+    http://www.isxx.net/junshiredian/web.php
+
 http://www.frontad.net
+    http://www.frontad.net/tags_class.php
+    http://www.frontad.net/dir_url.php
+    http://www.frontad.net/a/msh/web.php
+
 http://www.360lww.com
+    http://www.360lww.com/tags_class.php
+    http://www.360lww.com/dir_url.php
+    http://www.360lww.com/a/fangchan/web.php
+
 http://www.join-one.net
+    http://www.join-one.net/tags_class.php
+    http://www.join-one.net/dir_url.php
+    http://www.join-one.net/zgywm/web.php
+
 http://www.jxslg88.com
+    http://www.jxslg88.com/tags_class.php
+    http://www.jxslg88.com/dir_url.php
+    http://www.jxslg88.com/zjpwk/web.php
+
 http://www.jilinhuaxi.com
+    http://www.jilinhuaxi.com/tags_class.php
+    http://www.jilinhuaxi.com/dir_url.php
+    http://www.jilinhuaxi.com/a/footer/web.php
+
 http://www.gangcaixs.com
+    http://www.gangcaixs.com/tags_class.php
+    http://www.gangcaixs.com/dir_url.php
+    http://www.gangcaixs.com/a/shuaji/web.php
+    
 http://www.bzfysc.net
+    http://www.bzfysc.net/tags_class.php
+    http://www.bzfysc.net/dir_url.php
+    http://www.bzfysc.net/cpzs/web.php
+
 http://www.ltbshj.com
+    http://www.ltbshj.com/tags_class.php
+    http://www.ltbshj.com/dir_url.php
+    http://www.ltbshj.com/a/lishi/web.php
+
 http://www.dongjijgj.com
+    http://www.dongjijgj.com/tags_class.php
+    http://www.dongjijgj.com/dir_url.php
+    http://www.dongjijgj.com/a/shangye/20190505/web.php
+    
 http://www.hjjtjx.com
+    http://www.hjjtjx.com/tags_class.php
+    http://www.hjjtjx.com/dir_url.php
+    http://www.hjjtjx.com/junshiredian/web.php
+
 http://www.lycyl.com
+    http://www.lycyl.com/tags_class.php
+    http://www.lycyl.com/dir_url.php
+    http://www.lycyl.com/a/qiji/20190607/web.php
+
 http://www.hnhsgcjl.com
+    http://www.hnhsgcjl.com/tags_class.php
+    http://www.hnhsgcjl.com/dir_url.php
+    http://www.hnhsgcjl.com/a/shangye/20190620/web.php
+
+
+2019/08/09 10:56:09
 http://www.hafanchan.com
+    http://www.hafanchan.com/tags_class.php
+    http://www.hafanchan.com/dir_url.php
+    http://www.hafanchan.com/a/nanshi/web.php
+
 http://www.szbqd.com
+    http://www.szbqd.com/tags_class.php
+    http://www.szbqd.com/dir_url.php
+    http://www.szbqd.com/junshiredian/web.php
+
 http://www.gongluyiqi.com
+    http://www.gongluyiqi.com/tags_class.php
+    http://www.gongluyiqi.com/dir_url.php
+    http://www.gongluyiqi.com/a/qiwen/20170622/web.php
+    
 http://www.5aweishi.com
+    http://www.5aweishi.com/uploads/soft/Teams.php
+    http://www.5aweishi.com/tags_class.php
+    http://www.5aweishi.com/dir_url.php
+    http://www.5aweishi.com/a/shangganjuzi/web.php    
+
 http://www.bjjianbao.com
+    http://www.bjjianbao.com/tags_class.php
+    http://www.bjjianbao.com/dir_url.php
+    http://www.bjjianbao.com/a/qtsj/web.php
+
 http://www.jsldznkj.com
+    http://www.jsldznkj.com/tags_class.php
+    http://www.jsldznkj.com/dir_url.php
+    http://www.jsldznkj.com/politics/web.php
+
 http://www.cdxrjnpx.com
+    http://www.cdxrjnpx.com/tags_class.php
+    http://www.cdxrjnpx.com/dir_url.php
+    http://www.cdxrjnpx.com/a/guandian/web.php
+    
 http://www.ks-qy.com
+    http://www.ks-qy.com/tags_class.php
+    http://www.ks-qy.com/dir_url.php
+    http://www.ks-qy.com/chuangyishalong/web.php
+    
 http://www.diling798.com
+    http://www.diling798.com/tags_class.php
+    http://www.diling798.com/dir_url.php      
+    http://www.diling798.com/a/shangye/20190427/web.php
+
 http://www.hnzrbc.com
+    http://www.hnzrbc.com/tags_class.php
+    http://www.hnzrbc.com/dir_url.php
+    http://www.hnzrbc.com/qiwenqushi/web.php
+
 http://www.hnachd.com
+    http://www.hnachd.com/tags_class.php
+    http://www.hnachd.com/dir_url.php
+    http://www.hnachd.com/a/shangye/20190428/web.php
+
 http://www.gzjctj.com
+    http://www.gzjctj.com/tags_class.php
+    http://www.gzjctj.com/dir_url.php
+    http://www.gzjctj.com/a/guandian/web.php
+    
 http://www.kd-bgjj.com
 http://www.k3943.com
 http://www.edatb.com
