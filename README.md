@@ -16,4 +16,6 @@
 * `wenjianduibi.py`文件对比，目标文件与源文件对比，如果源文件中有，则跳过，如果没有，则把没有的那行数据单独存放到文件中记录.
 * `pyzhi_img.py`网页图片爬取，并保存到当前程序的img文件夹中，img文件夹需要自己创建.
 * `py_plth.py`,`body_update.py`dedecms数据库文章内容批量替换.
-* `py_input.py`键盘监听并执行对应的操作
+* `py_input.py`键盘监听并执行对应的操作.
+* `py_host_ip.py`批量获取域名ip地址.
+* `reading_text.py`读取文本文件，并按行转化为数组.
