@@ -2483,57 +2483,171 @@ http://www.mzcap.net
     http://www.mzcap.net/tags_class.php
     http://www.mzcap.net/dir_url.php
     http://www.mzcap.net/yinhang/web.php
-    
+
 http://www.ydtzhongyi.com
+    http://www.ydtzhongyi.com/tags_class.php
+    http://www.ydtzhongyi.com/dir_url.php
+    http://www.ydtzhongyi.com/riji/Teams.php
+    
 http://www.wfjtcc.com
 http://www.zgzljc.com
 http://www.hnjingtong.com
+    http://www.hnjingtong.com/tags_class.php
+    http://www.hnjingtong.com/dir_url.php
+    http://www.hnjingtong.com/a/jiqiao/web.php
+
 http://www.aiwetech.net
+    http://www.aiwetech.net/tags_class.php
+    http://www.aiwetech.net/dir_url.php
+    http://www.aiwetech.net/a/jiqiao/web.php
+
 http://www.j-green-cn.com
 http://www.wxfmwl.com
 http://www.optiontoy.com
 http://www.abm668.com
+    http://www.abm668.com/tags_class.php
+    http://www.abm668.com/dir_url.php
+    http://www.abm668.com/a/keji/web.php
+
 http://www.jysafe.com
 http://www.qkxa777.com
 http://www.ilccforum.com
 http://www.szfsep.com
+    http://www.szfsep.com/tags_class.php
+    http://www.szfsep.com/dir_url.php
+    http://www.szfsep.com/a/jiqiao/web.php
+
 http://www.yczhaigou.com
+    http://www.yczhaigou.com/tags_class.php
+    http://www.yczhaigou.com/dir_url.php
+    http://www.yczhaigou.com/a/bywh/web.php
+
 http://www.zgrjcpa.com
+    http://www.zgrjcpa.com/tags_class.php
+    http://www.zgrjcpa.com/dir_url.php
+    http://www.zgrjcpa.com/a/guzhang/web.php
+
 http://www.tgscw.com
+    http://www.tgscw.com/tags_class.php
+    http://www.tgscw.com/dir_url.php
+    http://www.tgscw.com/a/jiqiao/web.php
+
 http://www.ryyrc.com
 http://www.mc135.com
+    http://www.mc135.com/tags_class.php
+    http://www.mc135.com/dir_url.php
+    http://www.mc135.com/ad/web.php
+
+
+2019/08/19 09:40:28
 http://www.mc579.com
+    http://www.mc579.com/tags_class.php
+    http://www.mc579.com/dir_url.php
+    http://www.mc579.com/a/keji/web.php
+
 http://www.bp211.com
+    http://www.bp211.com/tags_class.php
+    http://www.bp211.com/dir_url.php
+    http://www.bp211.com/a/fangchan/web.php
+
 http://www.fa793.com
+    http://www.fa793.com/tags_class.php
+    http://www.fa793.com/dir_url.php
+    http://www.fa793.com/a/xinling/web.php
+
 http://www.fa692.com
+    http://www.fa692.com/tags_class.php
+    http://www.fa692.com/dir_url.php
+    http://www.fa692.com/a/falv/web.php
+
 http://www.fa715.com
+    http://www.fa715.com/tags_class.php
+    http://www.fa715.com/dir_url.php
+    http://www.fa715.com/a/falv/web.php
+
 http://www.mc196.com
+    http://www.mc196.com/tags_class.php
+    http://www.mc196.com/dir_url.php
+    http://www.mc196.com/a/qita/web.php
+
 http://www.mc573.com
+    http://www.mc573.com/tags_class.php
+    http://www.mc573.com/dir_url.php
+    http://www.mc573.com/a/qita/web.php
+
 http://www.sxhzpx.com
+    http://www.sxhzpx.com/tags_class.php
+    http://www.sxhzpx.com/dir_url.php
+    http://www.sxhzpx.com/a/fangchan/web.php
+
 http://www.hnyjzfxy.com
 http://www.hnyjzfpy.com
 http://www.hnyjzfxx.com
 http://www.gljx9.com
+    http://www.gljx9.com/tags_class.php
+    http://www.gljx9.com/dir_url.php
+    http://www.gljx9.com/a/jiqiao/web.php
+
 http://www.guanmenyi.com
+    http://www.guanmenyi.com/tags_class.php
+    http://www.guanmenyi.com/dir_url.php
+    http://www.guanmenyi.com/a/keji/web.php
+
 http://www.wmou.net
+    http://www.wmou.net/tags_class.php
+    http://www.wmou.net/dir_url.php
+    http://www.wmou.net/a/jiqiao/web.php
+
 http://www.pyygym.com
 http://www.zgwlgl.com
+    http://www.zgwlgl.com/tags_class.php
+    http://www.zgwlgl.com/dir_url.php
+    http://www.zgwlgl.com/a/keji/web.php
+
 http://www.yfarpower.net
 http://www.nahaijiaju.com
+    http://www.nahaijiaju.com/tags_class.php
+    http://www.nahaijiaju.com/dir_url.php
+    http://www.nahaijiaju.com/a/bywh/web.php
+
 http://www.zdxclkj.com
 http://www.ynqxsm.com
 http://www.bjylsdwl.com
 http://www.leadgnss.com
 http://www.luotianol.com
+    http://www.luotianol.com/tags_class.php
+    http://www.luotianol.com/dir_url.php
+    http://www.luotianol.com/a/guanyuwomen/web.php
+
 http://www.sznfhz.com
 http://www.yyxcwj.com
 http://www.bjzsry.com
 http://www.wfchxx.com
 http://www.fa831.com
+    http://www.fa831.com/tags_class.php
+    http://www.fa831.com/dir_url.php
+    http://www.fa831.com/a/jiqiao/web.php
+
 http://www.fa836.com
+    http://www.fa836.com/tags_class.php
+    http://www.fa836.com/dir_url.php
+    http://www.fa836.com/a/bywh/web.php
+
 http://www.fa927.com
+    http://www.fa927.com/tags_class.php
+    http://www.fa927.com/dir_url.php
+    http://www.fa927.com/a/guanyuwomen/web.php
+
 http://www.mc391.com
+    http://www.mc391.com/tags_class.php
+    http://www.mc391.com/dir_url.php
+    http://www.mc391.com/a/lianxiwomen/web.php
+    
 http://www.fa683.com
+    http://www.fa683.com/tags_class.php
+    http://www.fa683.com/dir_url.php
+    http://www.fa683.com/a/shezhi/web.php
+    
 http://www.fa657.com
 http://www.fa779.com
 http://www.fa835.com
@@ -2564,8 +2678,18 @@ http://www.flkjjt.com
 http://www.acbxltd.com
 http://www.wobaoo.com
 http://www.canovo110.net
+    http://www.canovo110.net/tags_class.php
+    http://www.canovo110.net/dir_url.php
+    http://www.canovo110.net/caiji/web.php
+    http://www.canovo110.net/uploads/media/Teams.php
+
 http://www.jndqaz.com
 http://www.fjsmled.com
+    http://www.fjsmled.com/tags_class.php
+    http://www.fjsmled.com/dir_url.php
+    http://www.fjsmled.com/a/keji/web.php
+    http://www.fjsmled.com/uploads/flink/_btn.php
+
 http://www.zzlzxmm.com
 http://www.sygpzy.com
 http://www.yueshimei.com
@@ -2594,6 +2718,11 @@ http://www.heixuan888.com
 http://www.nxzhsh.com
 http://www.yxhbcn.com
 http://www.dqbpkj.com
+    http://dqbpkj.com/skin/images/Teams.php
+    http://dqbpkj.com/tags_class.php
+    http://dqbpkj.com/dir_url.php
+    http://dqbpkj.com/a/nvxing/jianfei/web.php
+
 http://www.cnkcps.com
 http://www.51gckp.com
 http://www.bjhsrdkj.com
@@ -2670,6 +2799,10 @@ http://www.shengnanzs.com
 http://syky958.com
 http://clubhna.com
 http://www.ahzhgjg.com
+    http://www.ahzhgjg.com/tags_class.php
+    http://www.ahzhgjg.com/dir_url.php
+    http://www.ahzhgjg.com/a/join/web.php
+
 http://www.dsglsm.com
 http://www.yzjhmf.com
 http://www.lzksmy.com
@@ -2695,7 +2828,15 @@ http://www.hnhkgd.com
 http://www.shfuyun.com
 http://www.lygjs.net
 http://www.cntopy.com
+    http://www.cntopy.com/tags_class.php
+    http://www.cntopy.com/dir_url.php
+    http://www.cntopy.com/gaoxiao/web.php
+
 http://www.jndxdz.com
+    http://www.jndxdz.com/tags_class.php
+    http://www.jndxdz.com/dir_url.php
+    http://www.jndxdz.com/fenxiang/web.php
+
 http://www.tzqp.org
 http://www.ikserve.com
 http://www.czkyyt.com
@@ -2750,6 +2891,11 @@ http://www.aczjhw.com
 http://www.hldbsjm.com
 http://www.5zhongcha.com
 http://www.czjiuli.com
+    http://www.czjiuli.com/tags_class.php
+    http://www.czjiuli.com/dir_url.php
+    http://www.czjiuli.com/xinqishijie/web.php
+    http://www.czjiuli.com/pic/Teams.php
+
 http://www.xfhetao.com
 
 http://www.nbsxqlmzc.com
@@ -2834,6 +2980,10 @@ http://ztjydz.com   a113
 http://tjlohc.com   a114
 http://www.xydctech.com   a115
 http://aafapccn.com   a116
+    http://aafapccn.com/tags_class.php
+    http://aafapccn.com/dir_url.php
+    http://aafapccn.com/cy/web.php
+
 http://joinxyz.com   a117
 http://gujiaaudio.com   a118
 http://cdfcf.com   a119
@@ -2944,6 +3094,11 @@ http://www.snjypx.com   s583
 http://www.su2bns1c.com   s584
 http://www.jxjxsp.com   s585
 http://www.xylg8.com   s586
+    http://www.xylg8.com/tags_class.php
+    http://www.xylg8.com/dir_url.php
+    http://www.xylg8.com/a/msh/web.php
+    http://www.xylg8.com/plus/Teams.php
+
 http://www.hgdu32x.com   s587
 http://www.momocaifu.com   s588
 http://www.ppjunshi.com   s589
@@ -3010,6 +3165,10 @@ http://www.hftubaobei.com   s650
 http://www.laddny.com   s651
 http://www.hqycqy.com   s652
 http://www.hydfalan.com   s654
+    http://www.hydfalan.com/tags_class.php
+    http://www.hydfalan.com/dir_url.php
+    http://www.hydfalan.com/renwu/web.php
+
 http://www.qd-sfky.com/   s655
 http://www.yzypyq.com/   s656
 http://www.3536836.com   s657
@@ -3017,6 +3176,10 @@ http://www.3136836.com   s658
 http://www.bjclsm.net   s659
 http://www.wj1985.com   s660
 http://www.460343338.com   s661
+    http://www.460343338.com/tags_class.php
+    http://www.460343338.com/dir_url.php
+    http://www.460343338.com/a/shangye/20160407/web.php
+
 http://www.gentbon.com   s662
 http://www.xctx99.com   s663
 http://www.xtdjnhb.com   s664
@@ -3034,6 +3197,10 @@ http://www.wxxhsgd.com   s675
 http://www.cxgrclc.com   s676
 http://www.thhs66.com   s677
 http://www.yuanwo.net   s678
+    http://www.yuanwo.net/tags_class.php
+    http://www.yuanwo.net/dir_url.php
+    http://www.yuanwo.net/a/guandian/web.php
+    
 http://www.esaina.net   s679
 http://www.rzzyzx.com   s680
 http://www.mzjxsb.com   s681
@@ -3121,7 +3288,16 @@ http://jhc168.com
 http://jxhkedu.com
 http://mgsyey.com
 http://dzswhg.com
+    http://dzswhg.com/tags_class.php
+    http://dzswhg.com/dir_url.php
+    http://dzswhg.com/about/web.php
+
 http://szglc.com
+    http://szglc.com/tags_class.php
+    http://szglc.com/dir_url.php
+    http://szglc.com/a/kejibao/web.php
+    http://szglc.com/special/Teams.php
+
 http://577aiwan.com
 http://hbzuoyou.com
 http://888aiwan.com
@@ -3220,6 +3396,10 @@ http://gzlhgmm.com
 http://jzyhg.net
 http://sztqssw.com
 http://slyyyg.com
+    http://slyyyg.com/tags_class.php
+    http://slyyyg.com/dir_url.php
+    http://slyyyg.com/bizhi/web.php
+
 http://minchenw.com
 http://bh12301.com
 http://liulanmao.com
@@ -3357,6 +3537,10 @@ http://www.changlilaw.com
 http://www.hlgenews.com
 http://www.lfkjqbs.com
 http://www.fyxyd.net
+    http://www.fyxyd.net/tags_class.php
+    http://www.fyxyd.net/dir_url.php
+    http://www.fyxyd.net/about/tougao/web.php
+
 http://www.txxcyey.com
 http://www.jhlxx.net
 http://www.dcxwhg.net
@@ -3373,6 +3557,10 @@ http://www.zhiyouran.com
 http://www.xunibian.net
 http://www.zhiheyigou.com
 http://www.255iwan.com
+    http://www.255iwan.com/tags_class.php
+    http://www.255iwan.com/dir_url.php
+    http://www.255iwan.com/aiqingshuoshuo/web.php
+
 http://www.hdzlnt.com
 http://www.ynyhjt.com
 http://www.qh-aiaitie.com
@@ -3491,6 +3679,10 @@ http://www.msxix.com
 http://www.jcqc888.com
 http://www.ygy1981.com
 http://www.gucunjixie.com
+    http://gucunjixie.com/tags_class.php
+    http://gucunjixie.com/dir_url.php
+    http://gucunjixie.com/a/gexingshuoshuo/web.php
+
 http://www.qzsymby.com
 http://www.cqdpsc.com
 http://www.xianfuedu.net
@@ -3527,6 +3719,10 @@ http://lejumz.com
 http://frkhg777.com
 http://t0750.com
 http://fengshun77.com
+    http://fengshun77.com/tags_class.php
+    http://fengshun77.com/dir_url.php
+    http://fengshun77.com/about/web.php
+
 http://mingfengw.com
 http://zhoukaka.com
 http://zxwhg.com
@@ -3591,6 +3787,10 @@ http://www.easysufu.com
 http://www.fjgfsh.com
 http://www.cjr1job.com
 http://www.labtxx.com
+    http://www.labtxx.com/tags_class.php
+    http://www.labtxx.com/dir_url.php
+    http://www.labtxx.com/a/moban/web.php
+
 http://www.xinaiyue.net
 http://www.lracm.com
 http://www.hzswa.com
@@ -4062,6 +4262,10 @@ http://xunjing2.com
 http://tensonled.com
 http://www.jmhaoji.com
 http://www.dgwjlib.com
+    http://www.dgwjlib.com/tags_class.php
+    http://www.dgwjlib.com/dir_url.php
+    http://www.dgwjlib.com/about/web.php
+
 http://www.yjqingyuan.com
 http://www.csxiangla.com
 http://www.zhuben168.com
@@ -4082,6 +4286,10 @@ http://www.gujiaaudio.com
 http://www.ksycdp.com
 http://www.gl-af.com
 http://www.0554zxmr.com
+    http://www.0554zxmr.com/tags_class.php
+    http://www.0554zxmr.com/dir_url.php
+    http://www.0554zxmr.com/about/yinsishengming/web.php
+
 http://www.jmmnyy.com
 http://www.fycasters.com
 http://www.jnzhiyi.com
