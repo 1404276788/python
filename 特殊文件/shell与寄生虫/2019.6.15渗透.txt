@@ -2766,27 +2766,83 @@ http://www.zzlzxmm.com
     http://www.zzlzxmm.com/a/meinv/web.php
 
 http://www.sygpzy.com
+    http://www.sygpzy.com/tags_class.php
+    http://www.sygpzy.com/dir_url.php
+    http://www.sygpzy.com/faxing/zhifa/web.php
+    
 http://www.yueshimei.com
 http://www.jxxa888.com
+    http://www.jxxa888.com/tags_class.php
+    http://www.jxxa888.com/dir_url.php
+    http://www.jxxa888.com/dushiyanqing/web.php
+
 http://www.linyuanmy.com
+    http://www.linyuanmy.com/tags_class.php
+    http://www.linyuanmy.com/dir_url.php
+    http://www.linyuanmy.com/a/qushi/web.php
+
 http://www.mohaibowen.com
+    http://www.mohaibowen.com/tags_class.php
+    http://www.mohaibowen.com/dir_url.php
+    http://www.mohaibowen.com/a/web.php
+
 http://www.qw3921.com
+    http://www.qw3921.com/tags_class.php
+    http://www.qw3921.com/dir_url.php
+    http://www.qw3921.com/renwu/web.php
+    
 http://www.yukare.com
+    http://www.yukare.com/tags_class.php
+    http://www.yukare.com/dir_url.php
+    http://www.yukare.com/renwu/web.php
+
 http://www.youhuamall.com
+    http://www.youhuamall.com/tags_class.php
+    http://www.youhuamall.com/dir_url.php
+    http://www.youhuamall.com/html/juqing/web.php
+
 http://www.fjboshun.com
+    http://www.fjboshun.com/tags_class.php
+    http://www.fjboshun.com/dir_url.php
+    http://www.fjboshun.com/cpzs/web.php
+
 http://www.ynfagao.com
 http://www.tjjiyong.com
+    http://www.tjjiyong.com/tags_class.php
+    http://www.tjjiyong.com/dir_url.php
+    http://www.tjjiyong.com/html/aboutus/web.php
+
 http://www.dlsngzj.com
+    http://www.dlsngzj.com/tags_class.php
+    http://www.dlsngzj.com/dir_url.php
+    http://www.dlsngzj.com/a/tupianshuoshuo/web.php
+    
 http://www.vzebao.com
+    http://www.vzebao.com/tags_class.php
+    http://www.vzebao.com/dir_url.php
+    http://www.vzebao.com/a/android/web.php
+
 http://www.in-chen.com
+    http://www.in-chen.com/tags_class.php
+    http://www.in-chen.com/dir_url.php
+    http://www.in-chen.com/google/web.php
+
 http://www.qswxjx.com
+    http://www.qswxjx.com/tags_class.php
+    http://www.qswxjx.com/dir_url.php
+    http://www.qswxjx.com/a/liuyanfankui/web.php
+
 http://www.jotonsoft.com
     http://www.jotonsoft.com/tags_class.php
     http://www.jotonsoft.com/dir_url.php
     http://www.jotonsoft.com/plus/Teams.php
     http://www.jotonsoft.com/a/lianxiwomen/web.php
 
+
+2019/08/21 13:45:22
 http://www.jxgxzz.com
+
+    
 http://www.wcg58.com
 http://www.heixuan888.com
 http://www.nxzhsh.com
