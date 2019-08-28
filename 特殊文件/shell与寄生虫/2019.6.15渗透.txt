@@ -38,7 +38,7 @@ mysql 用户admin010  密码wanli361361A
 
 http://lcscmall.com/admindede/index.php
 
-http://www.polykm.com/admindede/index.php   admin   admin
+http://www.polykm.com/admindede/index.php   admindede   admin
 
 
 
