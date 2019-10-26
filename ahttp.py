@@ -43,4 +43,5 @@ def get_article(sel, html_and_text):
 r = gethtml(url)
 
 
+
 print(get_article(sel_title, True))
