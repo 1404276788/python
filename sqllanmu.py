@@ -5,7 +5,7 @@
 import pymysql
 
 # 网站数据库名称列表
-dbnamelist='C:/Users/Administrator/Desktop/dbname.txt'  #路径
+dbnamelist='C:/Users/admin/Desktop/wzurl.txt'  #路径
 
 line_db_list=[]
 for line_db in open(dbnamelist):
@@ -16,7 +16,7 @@ for dbrow in line_db_list:
     try:
         # dbname='aiyack_cn'
         # 打开数据库连接
-        db = pymysql.connect("192.168.1.219","jtcm","qA0130",dbname,charset="GBK")
+        db = pymysql.connect("192.168.1.216","jtcm","qA0130",dbname,charset="GBK")
 
         # 使用 cursor() 方法创建一个游标对象 cursor
         cursor = db.cursor()
@@ -30,7 +30,7 @@ for dbrow in line_db_list:
         for row in results:
             rowname=row[0]
             rowurl=row[1]    
-            f=open("C:/Users/Administrator/Desktop/db/"+dbname+'.txt','a',encoding='utf-8') #文件保存到桌面db文件夹中
+            f=open("C:/Users/admin/Desktop/db/"+dbname+'.txt','a',encoding='utf-8') #文件保存到桌面db文件夹中
             f.write(rowname+"   "+rowurl+'\n')
             f.close()
         db.close() #连接施放
